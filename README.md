@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MerveAlokten
 - 👀 I’m interested in neuroscience
 - 🌱 I’m currently (try to) learning fNIRS and EEG raw data analysis via Python
-- 💞️ I’m looking to collaborate on data scientist who familiar neural connections and analysis
+- 💞️ I’m looking to collaborate on data scientists who are familiar neural connections and analysis
 - 📫 How to reach me mervealokten@gmail.com
 
 <!---
